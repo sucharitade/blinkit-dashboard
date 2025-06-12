@@ -1,16 +1,14 @@
 # Sales Insights Dashboard for Blinkit using Power BI 
 
 ### Business Task
-Analyse Covid-19 data and its impact on Malaysia stock market, specifically the KLCI Index Price.
+analyze Blinkit's grocery sales data to uncover product and outlet-level insights for improving inventory and sales performance.
 
 ### Data Set
-- Blinkit grocery dataset (https://ourworldindata.org/covid-deaths).
+- Blinkit grocery dataset (https://www.kaggle.com/datasets/arunkumaroraon/blinkit-grocery-dataset).
 
 ### Tools
 - Microsoft Power bi desktop for visualisation 
 - Microsoft excel sheet for data cleaning 
-### Posted in
-- [Medium]
 
 ### Dashboard
 
