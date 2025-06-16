@@ -11,7 +11,7 @@ analyze Blinkit's grocery sales data to uncover product and outlet-level insight
 - Microsoft excel sheet for data cleaning
 
 ## 📂 Power BI File
-The Power BI `.pbix` file used to build this project is available in the repository [here](https://github.com/sucharitade/Customer-Churn-Analysis/blob/main/Churn%20analysis.pbix).
+The Power BI `.pbix` file used to build this project is available in the repository [here](https://github.com/sucharitade/blinkit-dashboard/blob/main/BLINKIT%20SALES%20DASHBOARD.pbix).
 
 ### Dashboard
 
