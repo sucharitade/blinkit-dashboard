@@ -15,4 +15,4 @@ The Power BI `.pbix` file used to build this project is available in the reposit
 
 ### Dashboard
 
-<img src="https://github.com/sucharitade/blinkit-dashboard/blob/main/Screenshot%20(673).png?raw=true" width="800" alt="Dashboard Screenshot">
+<img src="https://github.com/sucharitade/blinkit-dashboard/blob/main/Screenshot%20(711).png?raw=true" width="800" alt="Dashboard Screenshot">
